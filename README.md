@@ -40,22 +40,3 @@ Then you will need get a session string, copy it, then press heroku deploy butto
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mastermindvrtx/Telegram-VC-SingerBot/tree/dev)
 
 
-Send [commands](https://github.com/thehamkercat/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
-play music.
-
-
-## Commands
-Command | Description
-:--- | :---
-/help | Show Help Message.
-/skip | Skip Any Playing Music.
-/play | To search A Song and play from yt,spotify,deezer
-/telegram | Play A Song Directly From Telegram File.
-/queue | Check Queue Status.
-/joinc | Join Voice Chat.
-/rejoinc | Rejoin Voice Chat.
-/leavec | Leave Voice Chat.
-/volume [1-200] | Adjust Volume.
-/pause | Pause Music.
-/resume | Resume Music.
-/update | Update & Restart.
